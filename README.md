@@ -56,7 +56,6 @@ To run any of the projects, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/OTAKUWeBer/mini_project_games.git
-   cd mini_projects_games
    ```
 
 2. **Navigate to the directory of the project you want to run:**
