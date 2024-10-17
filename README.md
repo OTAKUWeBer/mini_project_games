@@ -61,7 +61,7 @@ To run any of the projects, follow these steps:
 
 2. **Navigate to the directory of the project you want to run:**
    ```bash
-   cd mini_project_games/project_name/
+   cd mini_project_games/
    ```
 
 3. **Install dependencies:**
