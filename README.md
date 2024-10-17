@@ -12,8 +12,6 @@ Welcome to the Mini Projects and Games repository! This collection features a va
   - [Match Color Game](#match-color-game)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -36,8 +34,7 @@ This repository contains a variety of mini projects and games written in Python.
 ### To-Do List App
 
 - **Description:** A command-line to-do list manager where you can add, remove, and view tasks.
-- **File:** `to_do_list.py`
-- **Location:** `mini_project_games/to_do_list/`
+- **File:** `to_do_list.py`_list/`
 - **Dependencies:** See `requirements.txt` in the project directory.
 
 ### Pig Game
